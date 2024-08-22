@@ -1,0 +1,61 @@
+.father{
+    background-color: cornflowerblue;
+}
+
+button{
+    background-color: red;
+    border-radius: 30px;
+    border: none;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+iframe{
+    width: 400px;
+    height: 200px;
+}
+
+.media{
+    display: flex;
+    justify-content: space-between;
+}
+
+h1{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.flexbox{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    color: white;
+}
+
+.info{
+    background-color: #61FF00;
+    border: 50px solid red;
+    width: 300px;
+    border-radius: 50px;
+}
+
+.infos{
+    display: flex;
+    justify-content: space-around;
+}
